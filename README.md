@@ -1,2 +1,4 @@
 # railgirldanang
-hjfjhbm
+Hello RailsGirlsDaNang.
+I'm Trang Bap
+I'm Trang Bap
